@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Олег\Desktop\Лаби\Алгоритмізація та програмування\Тринадцята\code\lab13.1\Source.cpp(25,15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Олег\Desktop\Лаби\Алгоритмізація та програмування\Тринадцята\code\lab13.1\Source.cpp(25,10): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  lab13.1.vcxproj -> C:\Users\Олег\Desktop\Лаби\Алгоритмізація та програмування\Тринадцята\code\lab13.1\x64\Debug\lab13.1.exe

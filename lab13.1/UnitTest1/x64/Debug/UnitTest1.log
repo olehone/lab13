@@ -1,0 +1,5 @@
+﻿  UnitTest1.cpp
+C:\Users\Олег\Desktop\Лаби\Алгоритмізація та програмування\Тринадцята\code\lab13.1\Source.cpp(25,15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Олег\Desktop\Лаби\Алгоритмізація та програмування\Тринадцята\code\lab13.1\Source.cpp(25,10): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     Creating library C:\Users\Олег\Desktop\Лаби\Алгоритм?зац?я та програмування\Тринадцята\code\lab13.1\x64\Debug\UnitTest1.lib and object C:\Users\Олег\Desktop\Лаби\Алгоритм?зац?я та програмування\Тринадцята\code\lab13.1\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Олег\Desktop\Лаби\Алгоритмізація та програмування\Тринадцята\code\lab13.1\x64\Debug\UnitTest1.dll
